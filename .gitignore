@@ -1,14 +1,6 @@
-# Python
+.env
+.streamlit/secrets.toml
 __pycache__/
 *.pyc
 .venv/
 venv/
-
-# Node / Vite
-node_modules/
-dist/
-
-# Environment
-.env
-.env.local
-.DS_Store
